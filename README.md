@@ -1,11 +1,8 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate full-stack Web developer based in New Delhi</h3>
 <h3 align="center">Who loves to convert ideas into webapps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellomohitsangwan&label=Profile%20views&color=0e75b6&style=flat" alt="hellomohitsangwan" /> </p>
-
 
 - 🔭 I’m currently working on [E-commerce store](https://github.com/hellomohitsangwan/ganga_E-commerce-store)
 
