@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellomohitsangwan&label=Profile%20views&color=0e75b6&style=flat" alt="hellomohitsangwan" /> </p>
 
-- 🔭 I’m currently working on [E-commerce store](https://github.com/hellomohitsangwan/ganga_E-commerce-store)
+- 🔭 I’m currently working on imporving the logic building skills and DSA
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning blockchain
 
 - 👯 I’m looking to collaborate on **Web Development**
 
