@@ -19,6 +19,8 @@ Hi, I am Mohit kumar !!
  
 ## Experience 
 
+- [Software Developer intern, DurianPay](https://durianpay.id/) Responsible for developing APIs with gRPC calls, optimizing latency using Redis for 10+ endpoints, and creating an Airflow cron job for aggregated data storage; utilized Golang, Redis, gRPC, Docker, Postgres, and Airflow.
+
 - [Full stack developer intern, PharmIQ](https://pharmiq.co/) Led backend auth, automated data entry (Python, saving 20+ hrs), and engineered ReactJS dashboard, boosting user engagement by 10%. Designed scalable NodeJS APIs for managing NDCs and Products, handling thousands of daily requests.
 
 - [Software developer intern, MFLEduclub](https://www.linkedin.com/company/mfleduclub/) Led team in developing web app, implementing authentication, infinite scroll, and optimizing performance with Redux, reducing load times by over 20%.
